@@ -58,6 +58,7 @@ V-LIVE는 드라마·영화의 한 장면을 직접 연기하며 배우가 되�
 - 테스팅: Jest, React Testing Library
 - 포맷팅: ESLint
 - Simple-Peer, Socket.io & Socket.io Client, Firebase
+  
 **`Backend`**
 - 코어: Node.js, Express, JavaScript ES2015+
 - DB: MongoDB & Mongoose, Joi
